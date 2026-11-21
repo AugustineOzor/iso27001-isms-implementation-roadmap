@@ -1,0 +1,13 @@
+ID,Risk scenario,Asset,Likelihood,Impact,Inherent score,Inherent level,Treatment,Annex A controls,Residual L,Residual I,Residual score,Residual level,Risk owner,Status
+R-01,Customer payroll data exposed through misconfigured cloud storage,Production data stores,3,5,15,High,Modify,8.9; 8.3; 5.15; 8.15,2,5,10,Medium,CTO,Treatment planned
+R-02,Compromise of privileged cloud credentials,AWS accounts and admin consoles,3,5,15,High,Modify,8.2; 8.5; 5.17; 8.16,2,5,10,Medium,CTO,Treatment planned
+R-03,Ransomware destroys or encrypts production database,Database cluster and backups,2,5,10,Medium,Modify,8.13; 5.30; 8.7; 8.14,2,4,8,Medium,Infrastructure Lead,Treatment planned
+R-04,Phishing leads to staff account takeover,Identity provider and email,4,4,16,High,Modify,6.3; 8.5; 8.7; 8.23,3,3,9,Medium,CISO,Treatment planned
+R-05,Vulnerable third-party dependency exploited in the platform,Application code and containers,4,4,16,High,Modify,8.8; 8.25; 8.26; 8.27; 8.28; 8.29,3,3,9,Medium,CTO,Treatment planned
+R-06,Sub-processor or supplier breach exposes customer data,Supplier ecosystem,3,4,12,High,Modify; Share,5.19; 5.20; 5.21; 5.22; 5.23,2,4,8,Medium,Head of Legal,Treatment planned
+R-07,Insider misuse or excessive access to customer data,Customer data and admin tooling,2,4,8,Medium,Modify,5.3; 5.18; 8.3; 8.15; 6.1; 6.4,2,3,6,Medium,CISO,Treatment planned
+R-08,Loss or theft of an unencrypted laptop,Corporate endpoints,3,3,9,Medium,Modify,8.1; 8.24; 7.9,1,3,3,Low,Head of IT,Treatment planned
+R-09,"Breach notification deadlines missed (customer 24h, regulator 72h)",Incident process,2,4,8,Medium,Modify,5.24; 5.25; 5.26; 5.27; 5.31; 5.34; 6.8,2,3,6,Medium,CISO,Treatment planned
+R-10,Unauthorised or untested production change causes outage,CI/CD and production,3,3,9,Medium,Modify,8.32; 8.31; 8.19,2,3,6,Medium,CTO,Treatment planned
+R-11,Opportunistic physical intrusion at shared Manchester floor,Manchester office,2,2,4,Low,Retain,None (monitored),2,2,4,Low,Head of People,Retained and monitored
+R-12,Legacy PayLite product remains unpatched until retirement (out of scope),PayLite hosting,3,2,6,Medium,Avoid,Retirement plan; network isolation,2,2,4,Low,CTO,Treatment planned

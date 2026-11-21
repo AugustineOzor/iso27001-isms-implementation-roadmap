@@ -1,0 +1,94 @@
+Control,Theme,Title,Applicable,Basis for selection,Linked risks,Implementation status,Justification / note
+5.1,Organizational,Policies for information security,Yes,Good practice,,Implemented,Baseline control for a SaaS provider processing customer personal data.
+5.2,Organizational,Information security roles and responsibilities,Yes,Good practice,,Implemented,Baseline control for a SaaS provider processing customer personal data.
+5.3,Organizational,Segregation of duties,Yes,Risk,R-07,Implemented,Treats R-07
+5.4,Organizational,Management responsibilities,Yes,Good practice,,Implemented,Baseline control for a SaaS provider processing customer personal data.
+5.5,Organizational,Contact with authorities,Yes,Good practice,,Planned,Baseline control for a SaaS provider processing customer personal data.
+5.6,Organizational,Contact with special interest groups,Yes,Good practice,,Planned,Baseline control for a SaaS provider processing customer personal data.
+5.7,Organizational,Threat intelligence,Yes,Good practice,,Planned,Baseline control for a SaaS provider processing customer personal data.
+5.8,Organizational,Information security in project management,Yes,Good practice,,Planned,Baseline control for a SaaS provider processing customer personal data.
+5.9,Organizational,Inventory of information and other associated assets,Yes,Good practice,,Partially implemented,Baseline control for a SaaS provider processing customer personal data.
+5.10,Organizational,Acceptable use of information and other associated assets,Yes,Good practice,,Planned,Baseline control for a SaaS provider processing customer personal data.
+5.11,Organizational,Return of assets,Yes,Good practice,,Planned,Baseline control for a SaaS provider processing customer personal data.
+5.12,Organizational,Classification of information,Yes,Good practice,,Partially implemented,Baseline control for a SaaS provider processing customer personal data.
+5.13,Organizational,Labelling of information,Yes,Good practice,,Planned,Baseline control for a SaaS provider processing customer personal data.
+5.14,Organizational,Information transfer,Yes,Good practice,,Planned,Baseline control for a SaaS provider processing customer personal data.
+5.15,Organizational,Access control,Yes,Risk,R-01,Implemented,Treats R-01
+5.16,Organizational,Identity management,Yes,Good practice,,Implemented,Baseline control for a SaaS provider processing customer personal data.
+5.17,Organizational,Authentication information,Yes,Risk,R-02,Partially implemented,Treats R-02
+5.18,Organizational,Access rights,Yes,Risk,R-07,Partially implemented,Treats R-07
+5.19,Organizational,Information security in supplier relationships,Yes,Risk,R-06,Partially implemented,Treats R-06
+5.20,Organizational,Addressing information security within supplier agreements,Yes,Risk,R-06,Partially implemented,Treats R-06
+5.21,Organizational,Managing information security in the ICT supply chain,Yes,Risk,R-06,Planned,Treats R-06
+5.22,Organizational,"Monitoring, review and change management of supplier services",Yes,Risk,R-06,Partially implemented,Treats R-06
+5.23,Organizational,Information security for use of cloud services,Yes,Risk,R-06,Partially implemented,Treats R-06
+5.24,Organizational,Information security incident management planning and preparation,Yes,Risk,R-09,Partially implemented,Treats R-09
+5.25,Organizational,Assessment and decision on information security events,Yes,Risk,R-09,Planned,Treats R-09
+5.26,Organizational,Response to information security incidents,Yes,Risk; Legal; Contract,R-09,Planned,Treats R-09
+5.27,Organizational,Learning from information security incidents,Yes,Risk,R-09,Planned,Treats R-09
+5.28,Organizational,Collection of evidence,Yes,Good practice,,Planned,Baseline control for a SaaS provider processing customer personal data.
+5.29,Organizational,Information security during disruption,Yes,Good practice,,Planned,Baseline control for a SaaS provider processing customer personal data.
+5.30,Organizational,ICT readiness for business continuity,Yes,Risk,R-03,Planned,Treats R-03
+5.31,Organizational,"Legal, statutory, regulatory and contractual requirements",Yes,Risk; Legal,R-09,Planned,Treats R-09
+5.32,Organizational,Intellectual property rights,Yes,Legal,,Planned,Required to meet obligations in the legal and contractual register (stage 02).
+5.33,Organizational,Protection of records,Yes,Legal,,Planned,Required to meet obligations in the legal and contractual register (stage 02).
+5.34,Organizational,Privacy and protection of PII,Yes,Risk; Legal; Contract,R-09,Partially implemented,Treats R-09
+5.35,Organizational,Independent review of information security,Yes,Contract,,Planned,Required to meet obligations in the legal and contractual register (stage 02).
+5.36,Organizational,"Compliance with policies, rules and standards for information security",Yes,Good practice,,Planned,Baseline control for a SaaS provider processing customer personal data.
+5.37,Organizational,Documented operating procedures,Yes,Good practice,,Planned,Baseline control for a SaaS provider processing customer personal data.
+6.1,People,Screening,Yes,Risk,R-07,Partially implemented,Treats R-07
+6.2,People,Terms and conditions of employment,Yes,Legal,,Implemented,Required to meet obligations in the legal and contractual register (stage 02).
+6.3,People,"Information security awareness, education and training",Yes,Risk,R-04,Partially implemented,Treats R-04
+6.4,People,Disciplinary process,Yes,Risk,R-07,Planned,Treats R-07
+6.5,People,Responsibilities after termination or change of employment,Yes,Good practice,,Planned,Baseline control for a SaaS provider processing customer personal data.
+6.6,People,Confidentiality or non-disclosure agreements,Yes,Good practice,,Implemented,Baseline control for a SaaS provider processing customer personal data.
+6.7,People,Remote working,Yes,Good practice,,Partially implemented,Baseline control for a SaaS provider processing customer personal data.
+6.8,People,Information security event reporting,Yes,Risk,R-09,Planned,Treats R-09
+7.1,Physical,Physical security perimeters,Yes,Good practice,,Implemented,Baseline control for a SaaS provider processing customer personal data.
+7.2,Physical,Physical entry,Yes,Good practice,,Implemented,Baseline control for a SaaS provider processing customer personal data.
+7.3,Physical,"Securing offices, rooms and facilities",Yes,Good practice,,Implemented,Baseline control for a SaaS provider processing customer personal data.
+7.4,Physical,Physical security monitoring,Yes,Good practice,,Planned,Baseline control for a SaaS provider processing customer personal data.
+7.5,Physical,Protecting against physical and environmental threats,Yes,Good practice,,Planned,Baseline control for a SaaS provider processing customer personal data.
+7.6,Physical,Working in secure areas,No,Not required,,Not applicable,No secure areas exist in scope; sensitive work happens on managed endpoints and cloud systems. Re-evaluate if a secure room is created.
+7.7,Physical,Clear desk and clear screen,Yes,Good practice,,Partially implemented,Baseline control for a SaaS provider processing customer personal data.
+7.8,Physical,Equipment siting and protection,Yes,Good practice,,Planned,Baseline control for a SaaS provider processing customer personal data.
+7.9,Physical,Security of assets off-premises,Yes,Risk,R-08,Partially implemented,Treats R-08
+7.10,Physical,Storage media,Yes,Good practice,,Planned,Baseline control for a SaaS provider processing customer personal data.
+7.11,Physical,Supporting utilities,Yes,Good practice,,Planned,Baseline control for a SaaS provider processing customer personal data.
+7.12,Physical,Cabling security,Yes,Good practice,,Planned,Baseline control for a SaaS provider processing customer personal data.
+7.13,Physical,Equipment maintenance,Yes,Good practice,,Planned,Baseline control for a SaaS provider processing customer personal data.
+7.14,Physical,Secure disposal or re-use of equipment,Yes,Good practice,,Planned,Baseline control for a SaaS provider processing customer personal data.
+8.1,Technological,User endpoint devices,Yes,Risk,R-08,Partially implemented,Treats R-08
+8.2,Technological,Privileged access rights,Yes,Risk,R-02,Partially implemented,Treats R-02
+8.3,Technological,Information access restriction,Yes,Risk,"R-01, R-07",Partially implemented,"Treats R-01, R-07"
+8.4,Technological,Access to source code,Yes,Good practice,,Implemented,Baseline control for a SaaS provider processing customer personal data.
+8.5,Technological,Secure authentication,Yes,Risk; Contract (insurer),"R-02, R-04",Partially implemented,"Treats R-02, R-04"
+8.6,Technological,Capacity management,Yes,Good practice,,Planned,Baseline control for a SaaS provider processing customer personal data.
+8.7,Technological,Protection against malware,Yes,Risk,"R-03, R-04",Partially implemented,"Treats R-03, R-04"
+8.8,Technological,Management of technical vulnerabilities,Yes,Risk,R-05,Partially implemented,Treats R-05
+8.9,Technological,Configuration management,Yes,Risk,R-01,Partially implemented,Treats R-01
+8.10,Technological,Information deletion,Yes,Good practice,,Planned,Baseline control for a SaaS provider processing customer personal data.
+8.11,Technological,Data masking,Yes,Good practice,,Planned,Baseline control for a SaaS provider processing customer personal data.
+8.12,Technological,Data leakage prevention,Yes,Good practice,,Planned,Baseline control for a SaaS provider processing customer personal data.
+8.13,Technological,Information backup,Yes,Risk; Contract (insurer),R-03,Implemented,Treats R-03
+8.14,Technological,Redundancy of information processing facilities,Yes,Risk,R-03,Planned,Treats R-03
+8.15,Technological,Logging,Yes,Risk,"R-01, R-07",Partially implemented,"Treats R-01, R-07"
+8.16,Technological,Monitoring activities,Yes,Risk,R-02,Partially implemented,Treats R-02
+8.17,Technological,Clock synchronization,Yes,Good practice,,Implemented,Baseline control for a SaaS provider processing customer personal data.
+8.18,Technological,Use of privileged utility programs,Yes,Good practice,,Planned,Baseline control for a SaaS provider processing customer personal data.
+8.19,Technological,Installation of software on operational systems,Yes,Risk,R-10,Planned,Treats R-10
+8.20,Technological,Networks security,Yes,Good practice,,Implemented,Baseline control for a SaaS provider processing customer personal data.
+8.21,Technological,Security of network services,Yes,Good practice,,Planned,Baseline control for a SaaS provider processing customer personal data.
+8.22,Technological,Segregation of networks,Yes,Good practice,,Implemented,Baseline control for a SaaS provider processing customer personal data.
+8.23,Technological,Web filtering,Yes,Risk,R-04,Planned,Treats R-04
+8.24,Technological,Use of cryptography,Yes,Risk,R-08,Implemented,Treats R-08
+8.25,Technological,Secure development life cycle,Yes,Risk,R-05,Planned,Treats R-05
+8.26,Technological,Application security requirements,Yes,Risk,R-05,Planned,Treats R-05
+8.27,Technological,Secure system architecture and engineering principles,Yes,Risk,R-05,Planned,Treats R-05
+8.28,Technological,Secure coding,Yes,Risk,R-05,Planned,Treats R-05
+8.29,Technological,Security testing in development and acceptance,Yes,Risk,R-05,Planned,Treats R-05
+8.30,Technological,Outsourced development,No,Not required,,Not applicable,All development is performed in-house by employees. Re-evaluate if development is outsourced.
+8.31,Technological,"Separation of development, test and production environments",Yes,Risk,R-10,Implemented,Treats R-10
+8.32,Technological,Change management,Yes,Risk,R-10,Partially implemented,Treats R-10
+8.33,Technological,Test information,Yes,Good practice,,Planned,Baseline control for a SaaS provider processing customer personal data.
+8.34,Technological,Protection of information systems during audit testing,Yes,Good practice,,Planned,Baseline control for a SaaS provider processing customer personal data.
