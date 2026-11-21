@@ -1,4 +1,5 @@
-<p align="center"><img src="assets/banner.jpg" alt="ISO 27001 Implementation Roadmap banner" width="100%"></p>
+<img width="1600" height="400" alt="banner" src="https://github.com/user-attachments/assets/d1e1d09f-06e2-4a76-bd1d-f0f7c9a11003" />
+
 
 # ISO 27001 Implementation Roadmap
 
@@ -91,7 +92,4 @@ ISO/IEC 27001:2022 (including Amendment 1:2024), ISO/IEC 27002:2022, ISO/IEC 270
 
 Orbitwise Cloud Ltd, its people, customers and figures are fictional and illustrative. This is a portfolio project demonstrating implementation method; it is not a certified ISMS, not legal advice and not a substitute for your certification body's requirements. Audit durations, timelines and sampling depend on the organization and the certification body.
 
-## Author
 
-**Augustine Ozor**, AI Governance and Cybersecurity GRC professional, Doha, Qatar.
-[GitHub](https://github.com/AugustineOzor) · [LinkedIn](https://www.linkedin.com/in/augustinetettehozor)
