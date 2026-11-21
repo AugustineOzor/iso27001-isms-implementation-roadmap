@@ -59,10 +59,6 @@ Clause 7 (support) is cross-cutting; see the [traceability matrix](docs/traceabi
 ```
 .
 ├── README.md
-├── assets/
-│   ├── banner.jpg
-│   └── social-banner.jpg          # 1280x640, for the GitHub social preview
-├── stages/                        # 16 stage guides with worked examples
 ├── docs/
 │   ├── dependency-map.md          # what each stage needs and produces
 │   ├── traceability-matrix.md     # clause -> stage -> evidence, mandatory documents
