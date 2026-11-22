@@ -54,17 +54,6 @@ flowchart LR
 
 Clause 7 (support) is cross-cutting; see the [traceability matrix](docs/traceability-matrix.md).
 
-## What is in this repository
-
-```
-.
-├── README.md
-├── docs/
-│   ├── dependency-map.md          # what each stage needs and produces
-│   ├── traceability-matrix.md     # clause -> stage -> evidence, mandatory documents
-│   ├── risk-register.csv          # 12 risks with inherent and residual scoring
-│   └── soa.csv                    # Statement of Applicability, all 93 Annex A controls
-```
 
 ## Highlights
 
